@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YeHuSo42ksUJP+MB4+k5L5HQzgmw+c/DYWcqIrAmYfA4ql0AYVQmEMIlF/7Udrt/iWxXhsY8ieJeJ4KNmiq1dg==",
+  "success": true,
+  "projectFilePath": "C:\\TempRepo\\DataGrid\\DataGrid.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alan Wayne\\.nuget\\packages\\elmish\\3.0.3\\elmish.3.0.3.nupkg.sha512",
+    "C:\\Users\\Alan Wayne\\.nuget\\packages\\elmish.wpf\\3.5.6\\elmish.wpf.3.5.6.nupkg.sha512",
+    "C:\\Users\\Alan Wayne\\.nuget\\packages\\fsharp.core\\5.0.0-beta.20471.5\\fsharp.core.5.0.0-beta.20471.5.nupkg.sha512",
+    "C:\\Users\\Alan Wayne\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

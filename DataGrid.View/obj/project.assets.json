@@ -1,0 +1,251 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Elmish/3.0.3": {
+        "type": "package",
+        "dependencies": {
+          "FSharp.Core": "4.6.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/Elmish.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Elmish.dll": {}
+        }
+      },
+      "Elmish.WPF/3.5.6": {
+        "type": "package",
+        "dependencies": {
+          "Elmish": "[3.0.3, 4.0.0)",
+          "FSharp.Core": "4.6.2"
+        },
+        "compile": {
+          "lib/netcoreapp3.0/Elmish.WPF.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Elmish.WPF.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
+      "FSharp.Core/5.0.0-beta.20417.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/FSharp.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/FSharp.Core.dll": {}
+        },
+        "resource": {
+          "lib/netstandard2.0/cs/FSharp.Core.resources.dll": {
+            "locale": "cs"
+          },
+          "lib/netstandard2.0/de/FSharp.Core.resources.dll": {
+            "locale": "de"
+          },
+          "lib/netstandard2.0/es/FSharp.Core.resources.dll": {
+            "locale": "es"
+          },
+          "lib/netstandard2.0/fr/FSharp.Core.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/netstandard2.0/it/FSharp.Core.resources.dll": {
+            "locale": "it"
+          },
+          "lib/netstandard2.0/ja/FSharp.Core.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/netstandard2.0/ko/FSharp.Core.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/netstandard2.0/pl/FSharp.Core.resources.dll": {
+            "locale": "pl"
+          },
+          "lib/netstandard2.0/pt-BR/FSharp.Core.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/netstandard2.0/ru/FSharp.Core.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/netstandard2.0/tr/FSharp.Core.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/netstandard2.0/zh-Hans/FSharp.Core.resources.dll": {
+            "locale": "zh-Hans"
+          },
+          "lib/netstandard2.0/zh-Hant/FSharp.Core.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
+      },
+      "DataGrid/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Elmish.WPF": "3.5.6",
+          "FSharp.Core": "5.0.0-beta"
+        },
+        "compile": {
+          "bin/placeholder/DataGrid.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataGrid.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Elmish/3.0.3": {
+      "sha512": "8wlNrIPyiC/oktXaxxxSKtpeUz8i/LWvVETyTQ6HuK4uMy8V+MqCSINYjK1WVWnN4lPSQFI+IesupmntWmH6eQ==",
+      "type": "package",
+      "path": "elmish/3.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "elmish.3.0.3.nupkg.sha512",
+        "elmish.nuspec",
+        "lib/net461/Elmish.dll",
+        "lib/net461/Elmish.pdb",
+        "lib/net461/Elmish.xml",
+        "lib/netstandard1.6/Elmish.dll",
+        "lib/netstandard1.6/Elmish.pdb",
+        "lib/netstandard1.6/Elmish.xml",
+        "lib/netstandard2.0/Elmish.dll",
+        "lib/netstandard2.0/Elmish.pdb",
+        "lib/netstandard2.0/Elmish.xml"
+      ]
+    },
+    "Elmish.WPF/3.5.6": {
+      "sha512": "kZsr2cIRjTUyN69gKw7NUXRS1GKjEBlFPPe9rMbhCyGwlLNnV/6bC7WgtJMJB3FKW0c4kZXgQttup3n9kY4tnA==",
+      "type": "package",
+      "path": "elmish.wpf/3.5.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "elmish-wpf-logo-128x128.png",
+        "elmish.wpf.3.5.6.nupkg.sha512",
+        "elmish.wpf.nuspec",
+        "lib/net461/Elmish.WPF.dll",
+        "lib/net461/Elmish.WPF.xml",
+        "lib/netcoreapp3.0/Elmish.WPF.dll",
+        "lib/netcoreapp3.0/Elmish.WPF.xml"
+      ]
+    },
+    "FSharp.Core/5.0.0-beta.20417.1": {
+      "sha512": "S3LlvW3stG3WvB+U4NhT5rjZahFCFBT+1uJVQDW3GbiaZfuarodu1olsnT2AShGBdZrVTtwQv/yifEyfVQpWNQ==",
+      "type": "package",
+      "path": "fsharp.core/5.0.0-beta.20417.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "fsharp.core.5.0.0-beta.20417.1.nupkg.sha512",
+        "fsharp.core.nuspec",
+        "lib/netstandard2.0/FSharp.Core.dll",
+        "lib/netstandard2.0/FSharp.Core.xml",
+        "lib/netstandard2.0/cs/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/de/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/es/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/fr/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/it/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/ja/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/ko/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/pl/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/pt-BR/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/ru/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/tr/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/zh-Hans/FSharp.Core.resources.dll",
+        "lib/netstandard2.0/zh-Hant/FSharp.Core.resources.dll"
+      ]
+    },
+    "DataGrid/1.0.0": {
+      "type": "project",
+      "path": "../DataGrid/DataGrid.fsproj",
+      "msbuildProject": "../DataGrid/DataGrid.fsproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "DataGrid >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Alan Wayne\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\TempRepo\\DataGrid.View\\DataGrid.View.csproj",
+      "projectName": "DataGrid.View",
+      "projectPath": "C:\\TempRepo\\DataGrid.View\\DataGrid.View.csproj",
+      "packagesPath": "C:\\Users\\Alan Wayne\\.nuget\\packages\\",
+      "outputPath": "C:\\TempRepo\\DataGrid.View\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Alan Wayne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\TempRepo\\DataGrid\\DataGrid.fsproj": {
+              "projectPath": "C:\\TempRepo\\DataGrid\\DataGrid.fsproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20452.10\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

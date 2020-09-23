@@ -1,0 +1,16 @@
+C:\Practice\DataGrid\bin\Debug\netcoreapp3.1\DataGrid.deps.json
+C:\Practice\DataGrid\bin\Debug\netcoreapp3.1\DataGrid.dll
+C:\Practice\DataGrid\bin\Debug\netcoreapp3.1\DataGrid.pdb
+C:\Practice\DataGrid\obj\Debug\netcoreapp3.1\DataGrid.AssemblyInfoInputs.cache
+C:\Practice\DataGrid\obj\Debug\netcoreapp3.1\DataGrid.AssemblyInfo.fs
+C:\Practice\DataGrid\obj\Debug\netcoreapp3.1\DataGrid.dll
+C:\Practice\DataGrid\obj\Debug\netcoreapp3.1\DataGrid.pdb
+C:\Practice\DataGrid\obj\Debug\netcoreapp3.1\DataGrid.fsprojAssemblyReference.cache
+C:\TempRepo\DataGrid\bin\Debug\netcoreapp3.1\DataGrid.deps.json
+C:\TempRepo\DataGrid\bin\Debug\netcoreapp3.1\DataGrid.dll
+C:\TempRepo\DataGrid\bin\Debug\netcoreapp3.1\DataGrid.pdb
+C:\TempRepo\DataGrid\obj\Debug\netcoreapp3.1\DataGrid.fsprojAssemblyReference.cache
+C:\TempRepo\DataGrid\obj\Debug\netcoreapp3.1\DataGrid.AssemblyInfoInputs.cache
+C:\TempRepo\DataGrid\obj\Debug\netcoreapp3.1\DataGrid.AssemblyInfo.fs
+C:\TempRepo\DataGrid\obj\Debug\netcoreapp3.1\DataGrid.dll
+C:\TempRepo\DataGrid\obj\Debug\netcoreapp3.1\DataGrid.pdb
